@@ -1,0 +1,17 @@
+{
+  "name": "dht22",
+  "version": "0.0.0",
+  "description": "driver for dht22 temperature humidity sensor",
+  "keywords": [
+    "dht22",
+    "am2303",
+    "temperature",
+    "humidity",
+    "sensor"
+  ],
+  "author": "austinblackstoneengineering@gmail.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "mbed-drivers": "~0.11.1"
+  }
+}
